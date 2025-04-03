@@ -2,7 +2,7 @@
 [llm]
 model = "claude-3-5-sonnet-20241022"
 base_url = "https://aihubmix.com/v1"
-api_key = "sk-foSNwPKU3gM2F19XBb85B99cF7394825Af43Ad468dB6B710"
+api_key = "sk-"
 max_tokens = 8192
 temperature = 0.0
 
@@ -19,7 +19,7 @@ temperature = 0.0
 [llm.vision]
 model = "claude-3-5-sonnet-20241022"
 base_url = "https://aihubmix.com/v1"
-api_key = "sk-foSNwPKU3gM2F19XBb85B99cF7394825Af43Ad468dB6B710"
+api_key = "sk-"
 max_tokens = 8192
 temperature = 0.0
 
